@@ -1,0 +1,1 @@
+today we are creating a new file as a practoice for version control using bash terminal
